@@ -2,7 +2,7 @@
 [![Install](https://github.com/nogibjj/Xianjing_Huang_Individual_Project_1/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/Xianjing_Huang_Individual_Project_1/actions/workflows/install.yml)[![Lint](https://github.com/nogibjj/Xianjing_Huang_Individual_Project_1/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/Xianjing_Huang_Individual_Project_1/actions/workflows/lint.yml)[![Format](https://github.com/nogibjj/Xianjing_Huang_Individual_Project_1/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/Xianjing_Huang_Individual_Project_1/actions/workflows/format.yml)[![Test](https://github.com/nogibjj/Xianjing_Huang_Individual_Project_1/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/Xianjing_Huang_Individual_Project_1/actions/workflows/test.yml)
 
 ### Youtube Video Link
-[Youtube Link](https://www.youtube.com/watch?v=rPrHaqKwjWI)
+[Youtube Link](https://youtu.be/ad-qByfXmTE)
 
 ### Directory Tree Structure 
 ```
